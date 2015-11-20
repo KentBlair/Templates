@@ -51,7 +51,7 @@
       "defaultValue": "West US",
       "allowedValues": [
         "West US",
-        "East US 2",
+        "East US 2"
       ],
       "metadata": {
         "description": "Restricts Choices to where premium storage is allowed in the US"
@@ -204,7 +204,6 @@
           }
         }
       }
-    }
-  ]
+   ]
 }
 
