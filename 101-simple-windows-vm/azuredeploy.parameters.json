@@ -13,6 +13,7 @@
     },
     "dnsNameForPublicIP": {
       "value": "KB1967"
+    },
     "location": {
       "value": "West US"
     },
